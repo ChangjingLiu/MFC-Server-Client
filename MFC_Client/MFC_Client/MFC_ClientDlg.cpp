@@ -185,7 +185,6 @@ void CMFCClientDlg::OnEnChangeSendbox()
 
 }
 
-
 void CMFCClientDlg::OnBnClickedSend()
 {
 	UpdateData(TRUE);
