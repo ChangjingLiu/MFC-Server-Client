@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CServerSocket">
+    <Position X="1.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAIAAAAAQCJAEIAIAAAAEAAA=</HashCode>
+      <FileName>CServerSocket.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSocket" Collapsed="true">
+    <Position X="1.5" Y="4.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AIEAABAAAAAECAACSEAAgAAAIIEAEEAYAAAkABCAEBE=</HashCode>
+      <FileName>C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\atlmfc\include\afxsock.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMFCServerDlg">
+    <Position X="6" Y="0.75" Width="2" />
+    <NestedTypes>
+      <Enum Name="CMFCServerDlg::__unnamed_enum_0006_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>MFC_ServerDlg.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AISQQAEIAIAwABACgBAAAACCCABJAiQAKAgDAALQAAA=</HashCode>
+      <FileName>MFC_ServerDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
